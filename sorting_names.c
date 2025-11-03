@@ -43,7 +43,7 @@ void showNames(char names[][LENGTH], int count) {
 int main() {
     // Predefined list of names (mix of biblical and international)
     char nameList[SIZE][LENGTH] = {
-        "David", "Mary", "Daniel", "Ruth", "Samuel",
+        "David", "Maria", "Daniel", "Ruth", "Samuel",
         "Esther", "Joseph", "Naomi", "John", "Sarah",
         "Michael", "Abel", "Isaac", "Leah", "Jacob",
         "Paul", "Peter", "Anna", "Lydia", "Elijah"
