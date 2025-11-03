@@ -49,7 +49,7 @@ int main() {
         return 1;
     }
 
-    // Preloaded student emails (with one duplicate)
+    // predefined student emails (with one duplicate)
     char defaultEmails[START_SIZE][EMAIL_SIZE] = {
         "david.johnson@alustudent.com",
         "mary.williams@alustudent.com",
@@ -58,7 +58,7 @@ int main() {
         "james.wilson@alustudent.com",
         "rebecca.miller@alustudent.com",
         "daniel.garcia@alustudent.com",
-        "mary.williams@alustudent.com", // duplicate
+        "mary.williams@alustudent.com", // the duplicate
         "joshua.martinez@alustudent.com",
         "rachel.anderson@alustudent.com"
     };
